@@ -7,6 +7,8 @@
 //
 //
 
+import SSKeychain
+
 private let BundleIdentifier: String = NSBundle.mainBundle().bundleIdentifier!
 
 public class SecureProperty: NSObject {
